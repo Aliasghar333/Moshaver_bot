@@ -1,1 +1,1 @@
-pyton-telegtam-bot
+python-telegtam-bot
